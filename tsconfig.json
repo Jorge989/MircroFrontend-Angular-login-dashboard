@@ -13,8 +13,8 @@
     "paths": {
       "auth": ["./dist/auth"],
       "models": ["./dist/models"],
-      "login": ["dist/login"],
-      "dashboard": ["dist/dashboard"]
+      "login": ["dist/login/public-api.ts"],
+      "dashboard": ["projects/dashboard/src/public-api.ts"]
     },
     "skipLibCheck": true,
     "isolatedModules": true,
