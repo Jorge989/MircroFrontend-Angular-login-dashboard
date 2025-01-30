@@ -1,3 +1,6 @@
 import { Routes } from '@angular/router';
+import { AppComponent } from './app.component';
 
-export const routes: Routes = [];
+export const dashBoardRoutes: Routes = [
+  { path: '', component: AppComponent }, // Rota padrão do login
+];
