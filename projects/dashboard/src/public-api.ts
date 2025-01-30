@@ -1,1 +1,1 @@
-export { DashboardModule } from './app/dashboard/dashboard.module';
+export { appConfig as dashboardConfig } from './app/app.config';

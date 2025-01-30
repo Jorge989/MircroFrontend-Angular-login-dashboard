@@ -1,1 +1,1 @@
-export { LoginModule } from './app/login/login.module';
+export { appConfig as loginConfig } from './src/app/app.config';
