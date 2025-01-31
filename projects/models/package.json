@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^18.2.0",
-    "@angular/core": "^18.2.0"
+    "@angular/core": "^18.2.0",
+    "@myorg/models": "file:"
   },
   "dependencies": {
-    "@myorg/models": "file:",
     "tslib": "^2.3.0"
   },
   "sideEffects": false
