@@ -11,8 +11,10 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "paths": {
-      "auth": ["./dist/auth"],
-      "models": ["./dist/models"],
+      // "auth": ["./dist/auth"],
+      // "models": ["./dist/models"],
+      "@myorg/auth": ["projects/auth/src/public-api.ts"],
+      "@myorg/models": ["projects/models/src/public-api.ts"],
       "login": ["dist/login/public-api.ts"],
       "dashboard": ["dist/dashboard/public-api.ts"]
     },
