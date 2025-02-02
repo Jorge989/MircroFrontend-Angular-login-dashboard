@@ -7,7 +7,7 @@ import { User } from '@myorg/models';
   providedIn: 'root',
 })
 export class AuthService {
-  private apiUrl = 'https://localhost:3000/users';
+  private apiUrl = 'http://localhost:3000/users';
   constructor(private http: HttpClient) {}
 
   getUsers(): Observable<User[]> {

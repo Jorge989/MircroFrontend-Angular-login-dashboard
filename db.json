@@ -2,9 +2,67 @@
   "users": [
     {
       "id": 1,
-      "name": "Jhon Doe",
-      "email": "jhno@examplle.com",
-      "password": "123456"
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "pass123",
+      "birthdate": "1988-05-15",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Gabriel Silva",
+      "email": "gabriel.silva@example.com",
+      "password": "secure456",
+      "birthdate": "1992-09-22",
+      "profession": "Data Analyst"
+    },
+    {
+      "id": 3,
+      "name": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "password": "maria789",
+      "birthdate": "1985-12-10",
+      "profession": "Marketing Specialist"
+    },
+    {
+      "id": 4,
+      "name": "Lucas Pereira",
+      "email": "lucas.pereira@example.com",
+      "password": "lucas101",
+      "birthdate": "1990-07-05",
+      "profession": "Product Manager"
+    },
+    {
+      "id": 5,
+      "name": "Fernanda Souza",
+      "email": "fernanda.souza@example.com",
+      "password": "fernanda321",
+      "birthdate": "1995-03-18",
+      "profession": "UX Designer"
+    },
+    {
+      "id": 6,
+      "name": "Ricardo Mendes",
+      "email": "ricardo.mendes@example.com",
+      "password": "ricardo654",
+      "birthdate": "1982-11-25",
+      "profession": "DevOps Engineer"
+    },
+    {
+      "id": 7,
+      "name": "Juliana Castro",
+      "email": "juliana.castro@example.com",
+      "password": "juliana987",
+      "birthdate": "1997-08-30",
+      "profession": "HR Manager"
+    },
+    {
+      "id": 8,
+      "name": "Eduardo Lima",
+      "email": "eduardo.lima@example.com",
+      "password": "eduardo234",
+      "birthdate": "1993-06-14",
+      "profession": "Cybersecurity Specialist"
     }
   ]
 }

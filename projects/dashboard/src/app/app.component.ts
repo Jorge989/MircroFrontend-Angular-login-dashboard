@@ -11,7 +11,5 @@ import { UserListComponent } from 'projects/dashboard/user-list/user-list.compon
 })
 export class AppComponent {
   title = 'dashboard';
-  ngOninit() {
-    alert('AppComponent');
-  }
+  ngOnInit() {}
 }
